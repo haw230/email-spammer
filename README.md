@@ -1,1 +1,2 @@
-# email-spammer
+# Email Spammer
+Simple Python script asking colleges for free swag. Actually worked pretty well.
